@@ -48,17 +48,21 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
+![Screenshot 2023-11-21 153938](https://github.com/PuliNagaNeeraj/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138849173/96562db6-1443-4afe-a798-127fa395d0a6)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
+![Screenshot 2023-11-21 153042](https://github.com/PuliNagaNeeraj/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138849173/79e2c822-4623-47fa-9690-15c08c1699d2)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
+![Screenshot 2023-11-21 152942](https://github.com/PuliNagaNeeraj/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138849173/093a8dcc-eb9e-4080-ab3e-c008b79b9e83)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
+![Screenshot 2023-11-21 152910](https://github.com/PuliNagaNeeraj/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138849173/05166a9e-9ada-450f-8595-62ff8800698a)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+![Screenshot 2023-11-21 152815](https://github.com/PuliNagaNeeraj/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138849173/1b57fb62-6c3b-4c0b-aa4d-bcdc07cba4ae)
+
+
 
 ## Output:
+
+![Screenshot 2023-11-21 153015](https://github.com/PuliNagaNeeraj/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138849173/09d90e18-4298-4e4a-b27a-b6b1cad76440)
 
 ### Name: 
 ### Register Number:
