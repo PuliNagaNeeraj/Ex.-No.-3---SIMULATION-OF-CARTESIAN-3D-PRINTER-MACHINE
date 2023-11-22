@@ -1,5 +1,5 @@
 # Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 21-11-2023
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -64,8 +64,8 @@
 
 ![Screenshot 2023-11-21 153015](https://github.com/PuliNagaNeeraj/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138849173/09d90e18-4298-4e4a-b27a-b6b1cad76440)
 
-### Name: 
-### Register Number:
+### Name: Puli Naga Neeraj
+### Register Number: 23004033
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
